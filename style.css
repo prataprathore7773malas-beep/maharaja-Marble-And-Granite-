@@ -2840,3 +2840,13 @@ ul {
     }
 
 }
+/* REMOVE NAVBAR WHITE LINE */
+.navbar,
+header,
+.navbar::before,
+.navbar::after,
+header::before,
+header::after {
+    border-bottom: none !important;
+    box-shadow: none !important;
+}
