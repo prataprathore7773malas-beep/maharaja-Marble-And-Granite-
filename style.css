@@ -2840,20 +2840,3 @@ ul {
     }
 
 }
-/* =========================================================
-   NAVBAR — REMOVE ALL OUTER LINE
-========================================================= */
-
-.navbar {
-    border: 0 !important;
-    outline: 0 !important;
-    box-shadow: 0 15px 50px rgba(0, 0, 0, 0.08) !important;
-}
-
-.navbar::before,
-.navbar::after {
-    display: none !important;
-    content: none !important;
-    border: 0 !important;
-    box-shadow: none !important;
-}
