@@ -322,7 +322,7 @@ ul {
 
     z-index: 5000;
 
-    border: 1px solid rgba(0,0,0,0.06);
+   border: none;
 
     background: rgba(
         255,
