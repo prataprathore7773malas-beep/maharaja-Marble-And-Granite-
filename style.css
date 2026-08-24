@@ -324,16 +324,10 @@ ul {
 
    border: none;
 
-    background: rgba(
-        255,
-        255,
-        255,
-        0.88
-    );
+   background: transparent;
+backdrop-filter: none;
 
-    backdrop-filter: blur(20px);
-
-    -webkit-backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: none;
 
     border-radius: 100px;
 
