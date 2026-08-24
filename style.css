@@ -2084,11 +2084,9 @@ ul {
 
 
 .footer-brand img {
-    width: 165px;
-
-    filter:
-        brightness(0)
-        invert(1);
+    width: 155px;
+    height: auto;
+    filter: none;
 }
 
 
